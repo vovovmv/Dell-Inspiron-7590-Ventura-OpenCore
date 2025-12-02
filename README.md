@@ -4,27 +4,21 @@
 
 - OC: 0.9.1
  
-- macOS Ventura 13.4 (22F66)
+- macOS Ventura 13.7.7 (22H722)
 
 ---
  
 **HDMI/蓝牙/Wi-Fi 可用, 麦克风问题暂时无解**
 
-HDMI/Bluetooth/Wi-Fi works fine, microphone issue is not solved for now.
+- 网卡：DW1820A,可以使用WIFI和蓝牙，隔空投送可以接收、不能发送
 
 - 【必要的三码洗白，将你的黑苹果洗为白苹果】 https://www.bilibili.com/video/BV1454y167ML
   
 ---
 
-## 修复HDMI/蓝牙教程 - Fix HDMI and Bluetooth tutorial
-
-- [https://github.com/vcvvvc/Dell-Inspiron-7590-Ventura/issues/6](https://github.com/vcvvvc/Dell-Inspiron-7590-Ventura/issues/6)
-
----
-
 ## Desktop
 
-![dk](./img/dknew.png)
+![dk](./img/version.png)
 
 ---
 
